@@ -1,0 +1,18 @@
+common/ThirdParty/FreeRTOS/list.o: \
+ D:/emcog/rtos/rtos_codes/RTOS-in-stm32f103c8t6/common/ThirdParty/FreeRTOS/list.c \
+ D:/emcog/rtos/rtos_codes/RTOS-in-stm32f103c8t6/common/ThirdParty/FreeRTOS/include/FreeRTOS.h \
+ ../Core/Inc/FreeRTOSConfig.h \
+ D:/emcog/rtos/rtos_codes/RTOS-in-stm32f103c8t6/common/ThirdParty/FreeRTOS/include/projdefs.h \
+ D:/emcog/rtos/rtos_codes/RTOS-in-stm32f103c8t6/common/ThirdParty/FreeRTOS/include/portable.h \
+ D:/emcog/rtos/rtos_codes/RTOS-in-stm32f103c8t6/common/ThirdParty/FreeRTOS/include/deprecated_definitions.h \
+ D:/emcog/rtos/rtos_codes/RTOS-in-stm32f103c8t6/common/ThirdParty/FreeRTOS/portable/GCC/ARM_CM3/portmacro.h \
+ D:/emcog/rtos/rtos_codes/RTOS-in-stm32f103c8t6/common/ThirdParty/FreeRTOS/include/mpu_wrappers.h \
+ D:/emcog/rtos/rtos_codes/RTOS-in-stm32f103c8t6/common/ThirdParty/FreeRTOS/include/list.h
+D:/emcog/rtos/rtos_codes/RTOS-in-stm32f103c8t6/common/ThirdParty/FreeRTOS/include/FreeRTOS.h:
+../Core/Inc/FreeRTOSConfig.h:
+D:/emcog/rtos/rtos_codes/RTOS-in-stm32f103c8t6/common/ThirdParty/FreeRTOS/include/projdefs.h:
+D:/emcog/rtos/rtos_codes/RTOS-in-stm32f103c8t6/common/ThirdParty/FreeRTOS/include/portable.h:
+D:/emcog/rtos/rtos_codes/RTOS-in-stm32f103c8t6/common/ThirdParty/FreeRTOS/include/deprecated_definitions.h:
+D:/emcog/rtos/rtos_codes/RTOS-in-stm32f103c8t6/common/ThirdParty/FreeRTOS/portable/GCC/ARM_CM3/portmacro.h:
+D:/emcog/rtos/rtos_codes/RTOS-in-stm32f103c8t6/common/ThirdParty/FreeRTOS/include/mpu_wrappers.h:
+D:/emcog/rtos/rtos_codes/RTOS-in-stm32f103c8t6/common/ThirdParty/FreeRTOS/include/list.h:
