@@ -59,6 +59,12 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define touch_Pin GPIO_PIN_3
+#define touch_GPIO_Port GPIOB
+#define touch_EXTI_IRQn EXTI3_IRQn
+#define ir_Pin GPIO_PIN_4
+#define ir_GPIO_Port GPIOB
+#define ir_EXTI_IRQn EXTI4_IRQn
 
 /* USER CODE BEGIN Private defines */
 
