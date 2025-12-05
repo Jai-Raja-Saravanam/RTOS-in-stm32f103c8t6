@@ -1,0 +1,12 @@
+../Core/Src/main.c:94:5:main	3
+../Core/Src/main.c:157:6:SystemClock_Config	4
+../Core/Src/main.c:202:13:MX_I2C1_Init	2
+../Core/Src/main.c:236:13:MX_RTC_Init	4
+../Core/Src/main.c:294:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:327:13:MX_GPIO_Init	1
+../Core/Src/main.c:371:6:RTC_handler	1
+../Core/Src/main.c:383:6:RTC_ProceesData_handler	1
+../Core/Src/main.c:408:6:Uart_handler	1
+../Core/Src/main.c:419:6:Lcd_handler	1
+../Core/Src/main.c:437:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:455:6:Error_Handler	1
