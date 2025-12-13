@@ -1,2 +1,0 @@
-../Core/Src/keypad.c:9:5:button_pressed	8	static
-../Core/Src/keypad.c:20:9:whichkey	16	static
